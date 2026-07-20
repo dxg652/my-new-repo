@@ -1,0 +1,4 @@
+{
+  "_comment": "Dedup state for the New England $300k+ job search agent. Each entry keyed by a stable job identifier (posting URL, or company+title+first-seen date if no stable URL). Updated and committed on every agent run.",
+  "seen": []
+}
